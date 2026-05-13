@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | macOS",
-  description: "My portfolio, inspired by macOS",
+  title: "William — Portfolio",
+  description: "Portfolio interactif style macOS",
 };
 
 export default function RootLayout({
